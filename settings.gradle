@@ -1,0 +1,4 @@
+rootProject.name = 'root-project'
+include 'domain-module'
+include 'client-module'
+
